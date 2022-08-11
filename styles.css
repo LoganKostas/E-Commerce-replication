@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.flex-title{
+    position: relative;
+    left: 280px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.under-title{
+    position: relative;
+    top: 50px;
+    right: 78px;
+}
+
+.flex-container{
+    display: flex;
+    border: 3px solid red;
+    width: 500px;
+    height: 400px;
+    flex-direction: row;
+    justify-content: center;
+    position: relative;
+    left: 662px;
+    top: 241px;
+}
+
+#body{
+    position: relative;
+    top: 60px;
+    right: 335px;
+    width: 400px;
+}
+
+#pass-box{
+    position: relative;
+    top: 150px;
+    right: 335px;
+    width: 400px;
+}
+
+.need-help{
+    position: relative;
+    top: 350px;
+    right: 320px;
+}
+.need-help p{
+    width: 200px;
+}
+ img{
+    position: relative;
+    width: 250px;
+    height: 200px;
+ }
+
+ .footer{
+    position: relative;
+
+ }
+
+ .footer li{
+    position: relative;
+    display: inline;
+    left: 400px;
+    margin: 50px; 
+    top: 450px; 
+ }
+
+ .footer p{
+    position: relative;
+    left: 770px;
+    top: 480px;
+ }
+
+ li{
+    list-style-type: none;
+ }
+ 
+ img{
+    position: relative;
+    bottom:400px;
+    left: 780px;
+ }
+
+ .forgot-password{
+    position:relative;
+    top: 150px;
+    left: 100px;
+    
+ }
+ .forgot-password li{
+    width: 150px;
+    position: relative;
+    top: 30px;
+}
+
+.password{
+    position: relative;
+    top: 180px;
+    left: -120px;
+}
+
+.under-title{
+    position: relative;
+    left: 180px;
+}
+
+.under-title p{
+    width: 300px;
+}
+
+.flex-title p{
+    width: 100px;
+}
+
+.create-account{
+    position: relative;
+    left: 800px;
+    top: 50px;
+    cursor: pointer;
+}
+
+.new-amazon{
+    position: relative;
+    left: 835px;
+}
+
+.continue{
+    border: 2px solid white;
+    background-color: orange;
+    color: white;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+    left: 830px;
+    bottom: 170px;
+}
